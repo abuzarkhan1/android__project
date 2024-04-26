@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652947719902",
+    "project_id": "chat-messenger-3f7c3",
+    "storage_bucket": "chat-messenger-3f7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652947719902:android:3e11c77e983d16fd41644f",
+        "android_client_info": {
+          "package_name": "com.abuzar.chat_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJO0chyqUTptGhFAVnhYZWyAnNU5tK24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
